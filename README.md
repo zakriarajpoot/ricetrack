@@ -1,17 +1,18 @@
 #  RiceTrack - Rice Shop Sales Tracker
 
-A simple, offline-first web application to track rice shop sales, revenue, profit, and inventory in real-time. Built with HTML, CSS, and JavaScript for easy deployment and browser use.
+A simple, Online web application to track rice shop sales, revenue, profit, and inventory in real-time. Built with HTML, CSS, and JavaScript for easy deployment and browser use.
+This web-software created by AI
 
 ##  Features
 
-- **📊 Real-time Analytics**: Track total revenue, profit, and rice sold with beautiful metric cards
-- **📅 Date Filtering**: Filter sales data by custom date ranges
-- **📝 Easy Data Entry**: Add new sales with rice type, quantity, price, and cost per kg
-- **📈 Top Sellers**: See your most popular rice types by quantity sold
-- **📱 Responsive Design**: Works perfectly on desktops, phones, and tablets
-- **💾 Local Storage**: All data stored securely in browser (no backend required)
-- **📥 CSV Export**: Download sales data for accounting and analysis
-- **🗑️ Data Management**: Delete individual sales or reset all data
+- ** Real-time Analytics**: Track total revenue, profit, and rice sold with beautiful metric cards
+- ** Date Filtering**: Filter sales data by custom date ranges
+- ** Easy Data Entry**: Add new sales with rice type, quantity, price, and cost per kg
+- ** Top Sellers**: See your most popular rice types by quantity sold
+- **Responsive Design**: Works perfectly on desktops, phones, and tablets
+- ** Local Storage**: All data stored securely in browser (no backend required)
+- ** CSV Export**: Download sales data for accounting and analysis
+- **🗑 Data Management**: Delete individual sales or reset all data
 
 ## 🛠 Tech Stack
 
@@ -23,7 +24,7 @@ A simple, offline-first web application to track rice shop sales, revenue, profi
 ##  Quick Start
 
 ### 1. View Live Demo
-Visit the [live demo](https://zakriarajpoot.github.io/RiceTrack) to see it in action!
+Visit the [live demo](https://ricetrack.github.io/) to see it in action!
 
 ### 2. Local Development
 1. Clone this repository: `git clone https://github.com/zakriarajpoot/RiceTrack.git`
