@@ -24,7 +24,7 @@ This web-software created by AI
 ##  Quick Start
 
 ### 1. View Live Demo
-Visit the [live demo](https://ricetrack.github.io/) to see it in action!
+Visit the [live demo](https://zakriarajpoot.github.io/ricetrack.github.io/) to see it in action!
 
 ### 2. Local Development
 1. Clone this repository: `git clone https://github.com/zakriarajpoot/RiceTrack.git`
