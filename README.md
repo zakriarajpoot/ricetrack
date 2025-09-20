@@ -33,7 +33,7 @@ Visit the [live demo](https://zakriarajpoot.github.io/RiceTrack) to see it in ac
 ### 3. Deploy Your Own
 1. Fork this repository
 2. Enable GitHub Pages in Settings > Pages > Source: main branch
-3. Your site will be live at `https://yourusername.github.io/RiceTrack`
+3. Your site will be live at `https://ricetrack.github.io/RiceTrack`
 
 ## Sample Usage
 
