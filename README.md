@@ -43,11 +43,6 @@ Visit the [live demo](https://zakriarajpoot.github.io/RiceTrack) to see it in ac
 4. **Export**: Download CSV for accounting software
 5. **Top Sellers**: Identify which rice types sell most
 
-##  Screenshots
-
-| Dashboard Overview | Add New Sale | Sales History |
-|--------------------|--------------|---------------|
-| ![Dashboard](https://via.placeholder.com/400x200/10b981/ffffff?text=Dashboard) | ![Add Sale](https://via.placeholder.com/400x200/3b82f6/ffffff?text=Add+Sale) | ![Sales Table](https://via.placeholder.com/400x200/ef4444/ffffff?text=Sales+History) |
 
 ##  For Rice Shop Owners
 
@@ -59,10 +54,10 @@ Visit the [live demo](https://zakriarajpoot.github.io/RiceTrack) to see it in ac
 
 ##  File Structure
 RiceTrack/
-├── index.html          # Main application HTML
-├── style.css           # Custom styles and responsive design
-├── dashboard.js        # Core functionality and data management
-└── README.md           # This file
+├── index.html          
+├── style.css           
+├── dashboard.js        
+└── README.md           
 
 ##  Support
 
