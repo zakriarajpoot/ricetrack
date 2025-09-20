@@ -24,17 +24,17 @@ This web-software created by AI
 ##  Quick Start
 
 ### 1. View Live Demo
-Visit the [live demo](https://zakriarajpoot.github.io/ricetrack.github.io/) to see it in action!
+Visit the [live demo](https://zakriarajpoot.github.io/ricetrack/) to see it in action!
 
 ### 2. Local Development
-1. Clone this repository: `git clone https://github.com/zakriarajpoot/RiceTrack.git`
+1. Clone this repository: `git clone https://github.com/zakriarajpoot/ricetrack.git`
 2. Open `index.html` in any modern web browser
 3. Start tracking sales immediately!
 
 ### 3. Deploy Your Own
 1. Fork this repository
 2. Enable GitHub Pages in Settings > Pages > Source: main branch
-3. Your site will be live at `https://ricetrack.github.io/RiceTrack`
+3. Your site will be live at `https://zakriarajpoot.github.io/ricetrack/`
 
 ## Sample Usage
 
@@ -55,6 +55,7 @@ Visit the [live demo](https://zakriarajpoot.github.io/ricetrack.github.io/) to s
 
 ##  File Structure
 RiceTrack/
+
 ├── index.html          
 ├── style.css           
 ├── dashboard.js        
@@ -63,5 +64,5 @@ RiceTrack/
 ##  Support
 
 Have questions or need help setting up? 
-- [Open an issue](https://github.com/zakriarajpoot/RiceTrack/issues)
+- [Open an issue](https://github.com/zakriarajpoot/ricetrack/issues)
 - Or contact: zakriarajpoot73@gmail.com
